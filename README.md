@@ -76,5 +76,3 @@
   </a>
   
   </details>
-  
-  *UwU*
