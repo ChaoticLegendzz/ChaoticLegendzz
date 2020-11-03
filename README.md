@@ -9,7 +9,7 @@
 ### Something rando about me:
 * I have been coding for almost two years now
 
-### Contact Me:
+### :phone: Contact Me:
 * My [Discord Server](https://discord.gg/kGXNVTT)
 
 ### Languages and Tools:
@@ -48,10 +48,24 @@
   <summary><b>:computer: Coding Activity</b></summary>
   
   <!-- waka-box start -->
-  📊 Yearly development breakdown
-  ```text
-  JavaScript 🕓 1000min   ▉▉▉▉▉▉▉▉▉▉░░░░░░░░░░░░░░░░░░░  50%
+  📊 Weekly development breakdown
+  <!-- wak-box end -->
   
-  JSON 🕓 30min █░░░░░░░░░░░░░░░░░░░░░░░░░░░ 13.0%
-  ```
+### :zap: My Current Stats
+<details>
+  <summary><u><b>:zap: Github Stats</b></u></summary>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChaoticLegendzz&show_icons=true&include_all_commits=true&theme=radical" alt="Chaotic's Github Stats" />
+  </a>
+  </details>
   
+  <details>
+  <summary><u><b>:zap: Project Stats</b></u></summary>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChaoticLegendzz&repo=JacksepticBOT&theme=blueberry" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChaoticLegendzz&repo=Legend-zz&theme=radical" />
