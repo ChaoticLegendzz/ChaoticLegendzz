@@ -45,4 +45,13 @@
   </details>
   
   <details>
-  <summary>
+  <summary><b>:computer: Coding Activity</b></summary>
+  
+  <!-- waka-box start -->
+  📊 Yearly development breakdown
+  ```text
+  JavaScript 🕓 1000min   ▉▉▉▉▉▉▉▉▉▉░░░░░░░░░░░░░░░░░░░  50%
+  
+  JSON 🕓 30min █░░░░░░░░░░░░░░░░░░░░░░░░░░░ 13.0%
+  ```
+  
