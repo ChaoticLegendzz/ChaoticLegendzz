@@ -24,5 +24,3 @@
 ### Project Statistics
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=Chicken-Treat&repo=Chicken-Treat-Discord-Bot)](https://github.com/Chicken-Treat/Chicken-Treat-Discord-Bot)
 
-### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaoticLegendzz)](https://github.com/ChaoticLegendzz/Chicken-Treat-Discord-Bot)
