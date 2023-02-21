@@ -6,6 +6,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaoticLegendzz&layout=compact&theme=dark)
 
-### Now Playing
+### My Status
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dr9cuwj5glvhzuxrhwx7urseq&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=dr9cuwj5glvhzuxrhwx7urseq&redirect=true)
+[![Discord Presence](https://lanyard.cnrad.dev/api/644964802695004197?theme=light&bg=a2a2d0&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Doing%20other%20stuff)](https://discord.com/users/644964802695004197)
