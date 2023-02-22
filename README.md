@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Ghost Animus**
 
-- 📫 How to reach me **Legends zz#2744 or Discord**
+- 📫 How to reach me **Legends zz#2744 or on [Guiled](https://guilded.gg)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
