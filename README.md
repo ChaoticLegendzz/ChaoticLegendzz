@@ -24,4 +24,4 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/644964802695004197?theme=light&bg=a2a2d0&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Doing%20other%20stuff)](https://discord.com/users/644964802695004197)
 
-[!Spotify Presence]([![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dr9cuwj5glvhzuxrhwx7urseq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=d999aa&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=dr9cuwj5glvhzuxrhwx7urseq&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dr9cuwj5glvhzuxrhwx7urseq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=d999aa&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=dr9cuwj5glvhzuxrhwx7urseq&redirect=true)
